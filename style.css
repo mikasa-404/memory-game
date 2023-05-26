@@ -3,9 +3,7 @@
     flex-wrap: wrap;
     height: 315px; 
     width: 415px;
-}
-div{
-    text-align: center;
+    margin: auto;
 }
 img{
     border-style: solid;
@@ -15,4 +13,48 @@ img{
 h1{
     font-family: 'Creepster', cursive;
     text-align: center;
+    color:white;
+    background-color : black;
+    padding: 2%;
+    margin-right:7%;
+    margin-left:7%;
+    margin-top: 3%;
+
+
+}
+h2{
+    text-align: center;
+    color: whitesmoke;
+    background-color: black;
+    margin-left: 45%;
+    margin-right: 45%;
+
+}
+html{
+    background-image: url(images/download.jpeg);
+    background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+
+}
+
+#container{
+    /* background-color: rgb(118, 159, 228); */
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 2%;
+    margin-left:10%;
+    margin-right:10%;
+
+
+}
+p{
+    /* border-radius: 5%;
+    border-style: solid;
+    border-width: 5px;
+    border-style: groove;
+    border-color: darkblue; */
+    padding: 1%;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6);
+
 }
