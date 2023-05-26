@@ -4,8 +4,15 @@
     height: 315px; 
     width: 415px;
 }
+div{
+    text-align: center;
+}
 img{
     border-style: solid;
     border-width: 2px;
 
+}
+h1{
+    font-family: 'Creepster', cursive;
+    text-align: center;
 }
